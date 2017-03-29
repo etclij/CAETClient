@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Spark
 =====
 
@@ -26,3 +27,7 @@ of the biggest and most active Open Source communities.
 [Spark]:http://www.igniterealtime.org/projects/spark/index.jsp
 [Openfire]:http://www.igniterealtime.org/projects/openfire/index.jsp
 [Ignite Realtime]:http://www.igniterealtime.org
+=======
+CAETC
+=====
+>>>>>>> etclij/master
